@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Sessions & Database
+sessions/
+database/*.json
+!database/main/
+database/main/*.json
+*.data.json
+
+# Environment & Config
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Backups
+backups/
+backup/
+*.backup
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+dist/
+build/
+
+# Credentials (keep safe)
+config.js.backup
+credentials.json

@@ -1,0 +1,15 @@
+{
+  "notifs": [
+    {
+      "type": "mbg",
+      "sender": "6285840041593@s.whatsapp.net",
+      "chatId": "120363411118669589@g.us",
+      "jadwal": [
+        "18.56"
+      ],
+      "enabled": true,
+      "createdAt": "2026-08-09T11:52:11.405Z",
+      "updatedAt": "2026-08-09T11:55:23.880Z"
+    }
+  ]
+}

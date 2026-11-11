@@ -1,0 +1,85 @@
+╔════════════════════════════════════╗
+║                 NusaBot                                                                     ║
+╚════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━
+📌 INFORMASI SCRIPT
+━━━━━━━━━━━━━━━━━━
+🤖 Bot Name   : NusaBot
+⚡ Version    : 2.6.0
+👑 Developer  : RzkyADS
+🛠️ Base Type  : Multi Device
+📦 Type Script: Private / Free Edit
+
+━━━━━━━━━━━━━━━━━━
+📢 WARNING
+━━━━━━━━━━━━━━━━━━
+⚠️ Jangan hapus credits developer
+⚠️ Jangan perjualbelikan SC tanpa izin
+⚠️ Rename seperlunya aja bang 😹
+⚠️ Jika ada error fix sendiri dulu 🗿
+⚠️ Dilarang claim hasil recode full
+
+━━━━━━━━━━━━━━━━━━
+🛠️ CARA RENAME BOT
+━━━━━━━━━━━━━━━━━━
+1. Buka file config.js
+2. Cari bagian berikut:
+
+bot: {
+   name: 'NusaBot'
+}
+
+3. Ganti sesuai nama bot kalian ✨
+
+━━━━━━━━━━━━━━━━━━
+👑 DEVELOPER
+━━━━━━━━━━━━━━━━━━
+💻 Di Kembangkan Oleh :
+RzkyADS
+
+📱 WhatsApp Developer :
+6285704682918
+
+━━━━━━━━━━━━━━━━━━
+📜 PEMILIK SC
+━━━━━━━━━━━━━━━━━━
+👑 RzkyADS
+
+📌 Kredit developer source: RzkyADS
+
+━━━━━━━━━━━━━━━━━━
+📢 CHANNEL RESMI
+━━━━━━━━━━━━━━━━━━
+🔗
+https://whatsapp.com/channel/0029Vb9jL3GKQuJBjRdpKO12
+
+━━━━━━━━━━━━━━━━━━
+👥 GROUP OFFICIAL
+━━━━━━━━━━━━━━━━━━
+🔗
+https://chat.whatsapp.com/BAHlbgB6AD5FobDBScZ99T
+
+━━━━━━━━━━━━━━━━━━
+💖 THANKS TO
+━━━━━━━━━━━━━━━━━━
+💖 Allah SWT
+💖 Orang Tua
+💖 RzkyADS
+💖 Semua User
+💖 Semua Member Support
+
+━━━━━━━━━━━━━━━━━━
+📝 NOTES
+━━━━━━━━━━━━━━━━━━
+• NusaBot dikelola dan dikembangkan oleh RzkyADS
+• Jangan abuse fitur bot
+• Gunakan dengan bijak
+• Jangan spam bot owner 😭
+• SC ini free 
+━━━━━━━━━━━━━━━━━━
+NOTE: Gunakan NusaBot dengan bijak dan hormati privasi pengguna.
+
+
+© NusaBot - 2026-2027
+ALL RIGHTS RESERVED
